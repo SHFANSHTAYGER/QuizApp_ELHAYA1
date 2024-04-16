@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611328959143",
+    "project_id": "quizapp-elhaya",
+    "storage_bucket": "quizapp-elhaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611328959143:android:da07fc393f28a26dfc7182",
+        "android_client_info": {
+          "package_name": "com.example.quizapp_elhaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkk1jBfBNVuh31HnPb3rTK6htSyVQPIwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
